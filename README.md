@@ -1,6 +1,6 @@
 ![MasterHead](https://mybrand.schroders.com/m/74d216bff82d9a81/original/geospatial.jpg)](https://DesmondMokhali.io)
 <h1 align="center">Hi 👋, I'm Desmond Mokhali</h1>
-<h3 align="center">A passionate entry level data analysts from South Africa</h3>
+<h3 align="center">A Passionate Entry Level Data Analysts from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*cPrF_XMe7U6atYgM.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desmondmokhali&label=Profile%20views&color=0e75b6&style=flat" alt="desmondmokhali" /> </p>
