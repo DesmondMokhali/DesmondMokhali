@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desmondmokhali&label=Profile%20views&color=0e75b6&style=flat" alt="desmondmokhali" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **AWS Foundations, ETL processes (Apache Airflow and Kafka)**
 
-- 💬 Ask me about **Geology, Geography, Remote Sensing, GIS**
+- 💬 Ask me about **Environmental Management, Geography, Geospatial Analysis, Data Analysis**
 
 - 📫 How to reach me **mokhalibofihla27@gmail.com**
 
