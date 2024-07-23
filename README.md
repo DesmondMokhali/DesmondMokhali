@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mokhalibofihla27@gmail.com**
 
-- ⚡ Fun fact **I love outdoor activities**
+- ⚡ Fun fact **I love trying out new gadgets and exploring the outdoors.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
