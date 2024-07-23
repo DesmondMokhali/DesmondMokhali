@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desmondmokhali&label=Profile%20views&color=0e75b6&style=flat" alt="desmondmokhali" /> </p>
 
-- 🌱 I’m currently learning **AWS Foundations, ETL processes (Apache Airflow and Kafka)**
+- 🌱 I’m currently learning **AWS Foundations , and Building Data Pipelines with ETL (Apache Airflow & Kafka)**
 
 - 💬 Ask me about **Environmental Management, Geography, Geospatial Analysis, Data Analysis**
 
