@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desmondmokhali&label=Profile%20views&color=0e75b6&style=flat" alt="desmondmokhali" /> </p>
 
-- 🌱 **I’m currently learning:** Data Sciences, AWS Foundations , and Building Data Pipelines with ETL (Apache Airflow & Kafka)
+- 🌱 **I’m currently learning:** Data Sciences, AWS Foundations , and Building Data Pipelines with ETL (Apache Airflow & Kafka).
 
-- 💬 **Ask me about:** Environmental Management, Geography, Geospatial Analysis, Data Analysis
+- 💬 **Ask me about:** Environmental Management, Geography, Geospatial Analysis, Data Analysis.
 
 - 📫 **How to reach me:** mokhalibofihla27@gmail.com
 
