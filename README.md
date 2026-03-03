@@ -1,17 +1,33 @@
 ![MasterHead](https://mybrand.schroders.com/m/74d216bff82d9a81/original/geospatial.jpg)](https://DesmondMokhali.io)
 <h1 align="center">Hi 👋, I'm Desmond Mokhali</h1>
 <h3 align="center">A Passionate Entry Level Data Analysts from South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*cPrF_XMe7U6atYgM.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=desmondmokhali&label=Profile%20views&color=0e75b6&style=flat" alt="desmondmokhali" /> </p>
 
-- 🌱 **I’m currently learning:** Data Sciences, AWS Foundations , and Building Data Pipelines with ETL (Apache Airflow & Kafka).
+# Hi there, I’m Bofihla! 👋
 
-- 💬 **Ask me about:** Environmental Management, Geography, Geospatial Analysis, Data Analysis.
+I’m a **Data Analyst & Systems Architect** with a background in Geosciences, currently building digital infrastructure for local economies in South Africa.
 
-- 📫 **How to reach me:** mokhalibofihla27@gmail.com
+### 🏗️ Current Project: Nearby MVP
+I'm developing **Nearby**, a service-provider utility designed to formalize and map local services in Gauteng. I'm currently solving for manual verification flows, secure user onboarding, and geospatial service discovery.
 
-- ⚡ **Fun fact:** I love trying out new gadgets and exploring the outdoors.
+### 🛠️ Technical Focus
+* **Developing:** Flutter, Supabase (PostgreSQL), and Vercel.
+* **Mastering:** AWS Foundations, Data Pipelines (ETL), and Real-time Streaming with Apache Airflow & Kafka.
+* **Geospatial Intelligence:** Leveraging my B.Sc. in Geology/Geography for spatial data analysis.
+
+### 💬 Ask me about
+* **Environmental & Geospatial Analysis:** Turning location data into insights.
+* **Data Pipelines:** Building the "pipes" that make modern apps run.
+* **The Township Economy:** How tech can bridge the gap for local providers.
+
+### 📫 Reach Me
+* **Email:** mokhalibofihla27@gmail.com
+* **Project Site:** [nearbymvpgp.vercel.app](https://nearbymvpgp.vercel.app)
+
+### ⚡ Fun Fact
+I’m a gadget enthusiast who’s just as comfortable analyzing soil samples in the outdoors as I am debugging a database in the lab.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
