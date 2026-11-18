@@ -9,7 +9,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0B1220,50:123650,100:0D9488&amp;height=190&amp;section=header&amp;text=Desmond%20Mokhali&amp;fontSize=43&amp;fontColor=FFFFFF&amp;fontAlignY=42&amp;desc=AI%20%26%20Automation%20%7C%20Software%20%7C%20Data%20%7C%20Geospatial&amp;descSize=17&amp;descAlignY=69" alt="Desmond Mokhali — AI, automation, software, data and geospatial systems" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=desmondmokhali&label=Profile%20views&color=0e75b6&style=flat" alt="desmondmokhali"  />
 
   <h3>Building intelligent systems for real-world operations.</h3>
 
