@@ -84,18 +84,24 @@ Turning location and scientific data into usable products.
 <tr>
 <td width="50%" valign="top">
 
-#### GeldenhuysFlow
-**Maintenance management for mining operations**<br />
-![Status](https://img.shields.io/badge/status-in%20development-F59E0B?style=flat-square)
+#### Geldenhuys Directory
+**Industrial supplier discovery and procurement intelligence**<br />
+![Status](https://img.shields.io/badge/status-live-22C55E?style=flat-square)
+![Access](https://img.shields.io/badge/access-approval%20based-334155?style=flat-square)
 
-A connected maintenance platform for site-based teams, covering work planning, inspections, repair workflows, and review and authorisation, delivered through role-aware mobile experiences.
+A private directory that transforms mining-industry catalogue data into a searchable supplier database. It helps procurement and operations teams discover companies by service and location, explore geographic coverage, compare providers and build sourcing shortlists through a responsive interface and interactive map.
 
-**Focus:** role-based access, structured workflows, accountable approvals
+**Focus:** supplier search, geospatial discovery, provider comparison, controlled access
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=111827)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+
+[**Explore project website**](https://geldenhuys-directory.vercel.app/)<br />
+<sub>Google sign-in and administrator approval required</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -175,6 +181,7 @@ These repositories show the analytical and data foundations behind my product de
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&amp;logo=flask&amp;logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&amp;logo=dart&amp;logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
@@ -203,6 +210,7 @@ These repositories show the analytical and data foundations behind my product de
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&amp;logo=tableau&amp;logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&amp;logo=qgis&amp;logoColor=white" alt="QGIS" />
   <img src="https://img.shields.io/badge/ArcGIS_Pro-0F766E?style=flat-square" alt="ArcGIS Pro" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&amp;logo=leaflet&amp;logoColor=white" alt="Leaflet" />
   <img src="https://img.shields.io/badge/Make-A855F7?style=flat-square&amp;logo=make&amp;logoColor=white" alt="Make" />
   <img src="https://img.shields.io/badge/REST_APIs-475569?style=flat-square" alt="REST APIs" />
 </p>
